@@ -1,0 +1,13 @@
+{
+  "name": "test-show-ad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "echo preinstall hook",
+    "postinstall": "echo postinstall hook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
